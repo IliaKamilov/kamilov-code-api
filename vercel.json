@@ -12,7 +12,8 @@
       "dest": "dist/app.ts"
     },
     {
-      "src": "/(.*)"
+      "src": "/(.*)",
+      "dest": "dist/app.js"
     }
   ],
   "env": {
